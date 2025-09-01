@@ -44,7 +44,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/your-username/your-repo-name/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Mansi287-debug/Mansi/output/snake.svg" alt="Snake animation" />
 
 
 ###

@@ -1,38 +1,37 @@
-<h2 align="left">Hi 👋! My name is Mansi Choudhary and I'm a Student </h2>
+<!-- 1. Greeting -->
+<h2 align="center">Hi! Folks 👋</h2>
 
-<!-- First row: Stats & Top Languages -->
+<!-- 2. Name with gradient typing effect -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3000&pause=500&color=ff007f&center=true&vCenter=true&width=700&lines=Mansi+Choudhary" alt="Mansi Choudhary"/>
+</h1>
+
+<!-- 3. GIF (larger, no border) -->
 <p align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Mansi287-Debug&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1&custom_title=Stats" height="150" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mansi287-Debug&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" height="400" style="border:none;" />
 </p>
 
-<!-- Second row: Streak -->
+<!-- 4. Top row: Most Used Language + Stats + Streak -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mansi287-Debug&locale=en&mode=weekly&theme=radical&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mansi287-Debug&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="180" style="margin-right: 20px;" />
+
+  <!-- Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Mansi287-Debug&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1&custom_title=Stats" height="180" style="margin-right: 20px;" />
+
+  <!-- Streak -->
+  <img src="https://streak-stats.demolab.com?user=Mansi287-Debug&locale=en&mode=weekly&theme=radical&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="180" />
 </p>
 
-<!-- Third row: Contribution Graph -->
+<!-- 5. Bottom row: Contribution Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mansi287-Debug&radius=16&theme=redical&area=true&order=5&hide_border=false&hide_title=false&custom_title=Contribution" height="300" />
 </p>
 
 
 
-###
 
-###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />

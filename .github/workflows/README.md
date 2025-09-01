@@ -1,5 +1,11 @@
-<!-- 1. Greeting -->
-<h2 align="center">Hi! MySelf Mansi Choudhary👋</h2>
+<!-- Fancy Greeting in a light-colored box -->
+<div align="center" style="background-color:#f0f8ff; padding: 20px 40px; border-radius: 15px; display: inline-block;">
+  <h2 style="margin:0; color:#ff007f; font-family: 'Segoe UI', sans-serif;">
+    𝐻𝑖 ! 𝑀𝑦𝑆𝑒𝑙𝑓 𝑀𝑎𝑛𝑠𝑖 𝐶ℎ𝑜𝑢𝑑ℎ𝑎𝑟𝑦 👋
+  </h2>
+</div>
+
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=2000&pause=500&center=true&vCenter=true&width=700&lines=I'm+a+Student!!;I'm+a+Developer!!;I'm+a+Data+Enthusiast!!&colors=ff007f,00ff00,00ffff" alt="Typing Effect" />
@@ -10,6 +16,17 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" height="250" style="border: 5px solid #ff007f; border-radius: 20px; box-shadow: 0 0 20px #ff69b4;" />
 </p>
+<h3 align="Left">:book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 </h3>
+
+I am a **Computer Science student** 👩‍💻 passionate about **coding, data analytics, and problem-solving** 🧩. I enjoy transforming raw data into **insights** 📊 and building **interactive projects** 💡 that solve real-world problems 🌍.  
+
+**Key Areas of Interest:**  
+- 🌐 Web & Software Development  
+- 📈 Data Analysis & Visualization  
+- 🤖 Artificial Intelligence & Machine Learning  
+- 👐 Open Source Contributions  
+
+I aim to combine **creativity** 🎨 with **technical expertise** ⚙️ to develop impactful solutions and grow as a professional in the tech industry 🚀.
 
 <div align="center">
 
@@ -50,8 +67,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
@@ -59,6 +74,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
 
   <h2 align="center" style="color:white;">Connect With Me</h2>
   
@@ -68,6 +84,7 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />  
 </div>
 
 ###
@@ -79,13 +96,13 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Mansi287-debug/Mansi/output/snake.svg" alt="Snake animation" />
-<!-- Quote below GIF -->
-<h3 align="center">
-  <span style="color:#ff007f;">Commit</span>, 
-  <span style="color:#00ffff;">push</span>, 
-  <span style="color:#ffff00;">hiss</span>… 
-  <span style="color:#ff7f50;">repeat 🐍</span>
-</h3>
 
+<!-- Quote in light/fancy font -->
+<h3 align="center">
+  ✨ <span style="color:#ff007f;">𝓒𝓸𝓶𝓶𝓲𝓽</span>, 
+  <span style="color:#00ffff;">𝓟𝓾𝓼𝓱</span>, 
+  <span style="color:#7fff00;">𝓗𝓲𝓼𝓼</span>… 
+  <span style="color:#ff7f50;">𝓡𝓮𝓹𝓮𝓪𝓽 🐍</span> ✨
+</h3>
 
 ###

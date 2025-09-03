@@ -39,7 +39,7 @@ I aim to combine **creativity** 🎨 with **technical expertise** ⚙️ to deve
       <img src="https://github-readme-stats.vercel.app/api?username=Mansi287-debug&show_icons=true&theme=radical" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mansi287-debug&theme=radical" />
+      <img src="https://streak-stats.demolab.com/?user=Mansi287-debug&theme=radical" />
     </td>
   </tr>
 </table>

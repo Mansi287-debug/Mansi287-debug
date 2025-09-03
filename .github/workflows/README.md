@@ -44,6 +44,12 @@ I aim to combine **creativity** 🎨 with **technical expertise** ⚙️ to deve
   </tr>
 </table>
 
+###
+
+<img align="center" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
 </div>
 
 <!----Profile Views------------->
